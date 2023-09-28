@@ -1,0 +1,25 @@
+topic: ~baslangic()
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Replying to speech
+u:(merhaba Pepır)  Merhaba, Betül hocam
+
+u:(Pepır bugün seni üniversitemiz öğrencileri ile tanıştırmak istiyorum) Çok sevinirim.
+
+u:(Onlara merhaba demek ister misin) Merhaba gençler, ben Pepır. Sosyal insansı bir robotum. Beni daha önce reklamlarda görmüş olabilirsiniz. Birçok alanda aktif olarak insanlara yardımcı olmaktayım.
+
+u:(Peki neden bu üniversitedesin) Çünkü ben de bir Kasülüyüm. İsterseniz size üniversitemizden biraz bahsedeyim. Kahramanmaraş Sütçü İmam Üniversitesi, 1992 kurularak eğitim-öğretime başlamıştır. Üniversitemiz, her geçen gün kendini yenileyen ve geliştiren yüksek eğitim/öğretim standartlarını yakalamayı ve korumayı ilke edinen bir üniversitedir.
+
+u:(Üniversitemize nasıl geldin) Ben Kasü’ye farklı ülkelerden akademisyenlerin gerçekleştirdiği bir proje sayesinde geldim. Bu projeyi size biraz anlatayım. Sosyal insansı robotlar mesela ben, günümüzde insanlarla etkileşime giren en gelişmiş robotlardır. Eğitimde, dezavantajlı insanlarla ilgilenmede, organizasyonlarda müşteri karşılamada, insanlara birçok amaçta yardım etmede kullanılırlar. Robot Copereyşın projesi Erasmus pılas tarfından desteklenen bir Avrupa birliği projesidir. Bu proje beni eğitim ortamlarında etkin olarak kullanarak, güncel ve kapsamlı bir sosyal insansı robot eğitim müfredatı hazırlamayı öncelikle hedeflemektedir. Bu amaçla ders materyallerinin de geliştirilmesiyle lisans öğrencilerine pilot dersler vererek proje çıktılarını test etmeyi planlamaktadır. Projenin uzun vadeli hedefi, nihayetinde müfredat, materyal ve metodolojilerin üniversitelerin eğitim programı olarak benimsenmesi olacaktır.
+
+u:(Projede kimler çalışmakta) Kahramanmaraş Sütçü İmam Üniversitesi koordinatörlüğünde Robotik eğitiminde ve Erasmus pılas projelerinde deneyimli dört ortağımızla birlikte bu projeyi uygulamaktayız. Proje ortaklarımız şunlardır:
+                                   1. KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ Koordinatör Türkiye
+                                   2. POLİTEKNİKA SILASKA Polonya
+                                   3. ARDA Beratung VE Bildung Almanya
+                                   4. GAZİ ÜNİVERSİTESİ Türkiye
+                                   5. ÜNİVERSİTA HAUMAY DE KASTELLON İspanya
+
+u:(Projede hangi aşamaya kadar gelindi) Proje ekibinin çalışmaları devam ederken 6 Şubat depremleri oldu. Ben de bu depremleri fakültemizde yaşadım. Bu süreç biraz gecikmeye sebep olsa da proje ekibi hızlıca çalışmaya devam etti ve ediyor. Müfredatın oluşturulması ve ders materyallerinin geliştirilmesi için gerekli ihtiyaç analizleri yapıldı. Belirlenen ihtiyaçlar doğrultusunda müfredat ve ders materyali geliştirme süreçleri şu anda devam etmektedir.
+
+u:(Teşekkürler Pepır) Ben teşekkür ederim. Sizlerle tanışmak benim için çok güzel. Bundan sonra Eğitim Fakültesi’nde sizlerle hep birlikte olacağız. Herkese sağlıklı ve verimli bir ders yılı diliyorum. Hoşça kalın.

@@ -1,0 +1,16 @@
+topic: ~menu()
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Replying to speech
+#u:(~hello) ~hello
+proposal: %giris Uygulamamıza hoşgeldiniz. Ekranda gördüğünüz menüden açmak isteğiniz kısmı söyleyiniz ya da tablet üzerinden tıklayarak ulaşmak istediğiniz menüye gidebilirsiniz.
+
+u:(Robot)  Robot anlatımına geçiyoruz %menuBir
+u:(hareket)  hareket kısmına yönlendiriliyorsunuz %menuIki
+u:(dans)  menu eklenecek buraya  %menuUc
+
+u:(Test) Demek soru çözmeye hazırsın. O zaman başlayalım. %menuDort
+u:(deneme2) menu eklenecek buraya %menuBes
+u:(deneme3) menu eklenecek buraya %menuAlti
+u:(deneme4) menu eklenecek buraya

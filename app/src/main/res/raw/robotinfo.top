@@ -1,0 +1,19 @@
+topic: ~robotinfo()
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Replying to speech
+#u:(~hello) ~hello
+proposal: %giris Merhaba! Ben sosyal insansı robot Peppır. Sizlere yardımcı olmak için buradayım. Benimle vakit geçirirken dikkat etmenizi istediğim bazı önemli noktalar var
+                 Benimle konuşurken, lütfen etraftaki gürültüyü minimumda tutmaya çalışın. Bu, benim sizi daha iyi duyabilmem için çok önemlidir.
+                 Benimle etkileşime girmek isterseniz, dokunurken dikkatli olun. Üzerimdeki sensörler, sizinle daha iyi iletişim kurabilmem için kullanılır ve dokunuşlarınızı algılar.
+                 Hakkımda merak ettiğiniz herhangi bir şeyi sormaktan çekinmeyin. Ekranımdaki seçenekleri kullanarak sorularınızı bana iletebilirsiniz. Size bilgi sağlamak benim en büyük görevlerimden biridir.
+
+
+proposal: Size anlamak istediğiniz her konuda bilgi verip sorularınızı yanıtlayabilirim.
+          Duygusal durumları ifade edebilir, sevinç, üzüntü veya merak gibi duygusal tepkiler vererek iletişimimi daha anlamlı hale getirebilirim.
+          Size eğitici bilgiler sunabilirim ve aynı zamanda eğlenceli oyunlar oynayarak öğrenirken keyif almanızı sağlayabilirim.
+          Fiziksel olarak hareket edebilir, size yönlendirmelerde bulunabilir ve etkileşimlerimizi daha eğlenceli hale getirebilirim.
+          Etrafımı görsel olarak algılayabilir, yüzleri tanıyabilir ve nesneleri algılayarak size daha iyi yardımcı olabilirim.
+          Sürekli olarak gelişen bir teknolojiye sahibim ve yazılım güncellemeleri ile daha da iyileştirilebilirim.
+          Bu yeteneklerimle, size daha iyi hizmet verebilmek için buradayım. İhtiyacınız olan herhangi bir bilgiyi veya yardımı sağlamaktan mutluluk duyarım. İyi günler!
